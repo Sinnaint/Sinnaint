@@ -29,7 +29,7 @@ I enjoy work where accuracy matters: collecting and verifying data, organizing i
   <img src="https://raw.githubusercontent.com/Sinnaint/firefly-focus/main/assets/promo/promo-marquee.png" alt="Firefly Focus — a calm, private Pomodoro timer" width="100%">
 </a>
 
-### [Firefly Focus — Pomodoro Timer & Tasks](https://github.com/Sinnaint/firefly-focus)
+### [Firefly Focus — Pomodoro Timer & Tasks]
 
 A calm, private productivity extension for Chrome, built with AI-assisted coding (ChatGPT, Claude, Gemini).
 
